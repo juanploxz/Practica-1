@@ -1,0 +1,1 @@
+Estudiante {identificacion = "prueba", nombre = "prueba_final_11", fechaIngreso = 2025-03-06 03:52:10.587854 UTC, fechaEgreso = Nothing}
